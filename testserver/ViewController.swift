@@ -14,6 +14,10 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         print("heloo")
+        for i in 1...10
+        {
+            print(i)
+        }
     }
 
 
